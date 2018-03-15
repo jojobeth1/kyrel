@@ -38,7 +38,7 @@ Fork and `git clone` this repo (you now know how to do this!).
 There are 3 problem sets: 
 * [Part I](/instructions/part1.md)
 * [Part II](/instructions/part2.md)
-* [Part III](/instructions/part3.js)
+* [Part III](/instructions/part3.md)
 
 You will write your code in `play.js`:
 
